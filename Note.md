@@ -10,7 +10,7 @@ _Các case cần xử lý:_
 * Scatter plot trên bản đồ thế giới về quốc tịch cầu thủ.
 * Những đội bóng có nhiều cầu thủ giá trị. 
 
-** Vẽ tứ phân vị cho market value và age của các quốc gia.**
+** Vẽ tứ phân vị cho market value và age của các quốc gia. **
 * Phân tích những quốc gia ít cầu thủ trong 5 giải. Xem những cầu thủ ở nước nhỏ chọn nơi nào để phát triển.
 * So sánh giá trị của từng vị trí ở mỗi giải quốc gia.
 * Chia nhỏ age ví dụ: $<23$ để khai thác xem nước nào chiếm nhiều cầu thủ trẻ.
