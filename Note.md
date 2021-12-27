@@ -9,6 +9,7 @@ _Các case cần xử lý:_
 * Xem giải bóng đá ở nước nào có nhiều clb nổi tiếng dễ nhớ đến khi nhắc đến.
 * Scatter plot trên bản đồ thế giới về quốc tịch cầu thủ.
 * Những đội bóng có nhiều cầu thủ giá trị. 
+
 ** Vẽ tứ phân vị cho market value và age của các quốc gia.**
 * Phân tích những quốc gia ít cầu thủ trong 5 giải. Xem những cầu thủ ở nước nhỏ chọn nơi nào để phát triển.
 * So sánh giá trị của từng vị trí ở mỗi giải quốc gia.
